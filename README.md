@@ -72,8 +72,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - ### Python
 
 - [ ] Adequate Python Knowledge
-    - [ ] [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
-    - [ ] [edX & Microsoft - Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
+    - [x] [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+    - [x] [edX & Microsoft - Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
     - [ ] [Coursera - Python For Everybody](https://www.coursera.org/learn/python)
     - [ ] [SoloLearn Learn Python](https://www.sololearn.com/Course/Python/)
 
